@@ -11,6 +11,7 @@
             bool exit = false;
             while (!exit)
             {
+
                 Console.WriteLine("\nWelcome to the Smart Shopping Cart");
                 Console.WriteLine("1. Shop at Grocery Store");
                 Console.WriteLine("2. Shop at Clothing Store");
