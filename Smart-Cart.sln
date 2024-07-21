@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.10.34928.147
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Smart-Cart", "Smart-Cart\Smart-Cart.csproj", "{691393CF-B2D8-4B29-9E93-36A83021E26A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Smart-Cart", "Smart-Cart\Smart-Cart.csproj", "{691393CF-B2D8-4B29-9E93-36A83021E26A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Smart-CartTest", "Smart-CartTest\Smart-CartTest.csproj", "{D5070208-C6BC-4EC7-A53B-307771585D5E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{691393CF-B2D8-4B29-9E93-36A83021E26A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{691393CF-B2D8-4B29-9E93-36A83021E26A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{691393CF-B2D8-4B29-9E93-36A83021E26A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D5070208-C6BC-4EC7-A53B-307771585D5E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D5070208-C6BC-4EC7-A53B-307771585D5E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D5070208-C6BC-4EC7-A53B-307771585D5E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D5070208-C6BC-4EC7-A53B-307771585D5E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

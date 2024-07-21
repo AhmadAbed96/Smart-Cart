@@ -68,6 +68,7 @@ namespace Smart_Cart
                         totalCost += product.Price;
                     }
                 }
+                return totalCost;
             }
             return totalCost;
         }    
